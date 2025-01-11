@@ -1,1 +1,1 @@
-TypeScript dilini kullanarak yaptığım temel örnek.
+TypeScript dilini kullanarak yaptığım temel örnekler.
